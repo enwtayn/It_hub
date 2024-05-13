@@ -208,3 +208,16 @@ body{
 .container.active .toggle-right{
     transform: translateX(200%);
 }
+
+footer {
+    padding: 2rem 0;
+    text-align: center;
+    border-top: 1px solid #dee2e6;
+  }
+
+  footer p {
+    margin: 0;
+    color: #13961e;
+    font-size: 1.2rem;
+    text-decoration: underline;
+  }
